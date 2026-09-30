@@ -16,5 +16,4 @@ contacted by 6s RNA.
 - Molecular docking
 
 ## File📁
-The project presentation is included in the repository:
-[View the Project Presentation](Boltzmann_Hackathon_Presentation.pptx)
+The project presentation is included in the repository: [Sandhya_elumalai_hackathon.pptx](Sandhya_elumalai_hackathon.pptx)
